@@ -30,8 +30,9 @@ const route = useRoute();
             >Sustainability</RouterLink
           >
           <RouterLink
-            href="#"
+            to="/contact"
             class="text-sm font-medium hover:text-[#B89B74] transition-colors"
+            :class="{ 'text-[#B89B74]': route.path === '/contact' }"
             >Contact</RouterLink
           >
         </nav>
