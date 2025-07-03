@@ -1,5 +1,5 @@
 <script setup>
-import supplyChainSteps from "@/data/supplyChainSteps";
+import supplyChainSteps from "@/data/sustainability/supplyChainSteps";
 </script>
 
 <template>

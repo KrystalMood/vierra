@@ -1,5 +1,5 @@
 <script setup>
-import certifications from "@/data/certifications";
+import certifications from "@/data/sustainability/certifications";
 </script>
 
 <template>
@@ -30,7 +30,7 @@ import certifications from "@/data/certifications";
           class="w-20 h-20 bg-[#F8F5F2] rounded-full flex items-center justify-center mx-auto group-hover:bg-[#B89B74] transition-colors"
         >
           <i
-            class="material-icons text-4xl leading-none flex items-center justify-center text-[#1A1A1A] group-hover:text-white transition-colors"
+            class="material-icons leading-none flex items-center justify-center text-[#1A1A1A] group-hover:text-white transition-colors"
             >{{ cert.icon }}</i
           >
         </div>

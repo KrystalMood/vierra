@@ -1,5 +1,5 @@
 <script setup>
-import sustainableMaterials from "@/data/sustainableMaterials";
+import sustainableMaterials from "@/data/sustainability/sustainableMaterials";
 </script>
 
 <template>

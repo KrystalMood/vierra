@@ -1,5 +1,5 @@
 <script setup>
-import takeActions from "@/data/takeActions";
+import takeActions from "@/data/sustainability/takeActions";
 </script>
 
 <template>

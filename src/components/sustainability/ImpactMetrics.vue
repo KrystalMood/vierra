@@ -1,5 +1,5 @@
 <script setup>
-import impactMetrics from "@/data/impactMetrics";
+import impactMetrics from "@/data/sustainability/impactMetrics";
 </script>
 
 <template>
