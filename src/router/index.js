@@ -4,6 +4,7 @@ import Home from '@/views/Home.vue';
 import About from '@/views/About.vue';
 import Sustainability from '@/views/Sustainability.vue';
 import Contact from '@/views/Contact.vue';
+import Collections from '@/views/Collections.vue';
 
 const routes = [
     {
@@ -13,6 +14,13 @@ const routes = [
             title: 'Home',
         },
         name: 'home',
+    },
+    {
+        path: '/collections',
+        component: Collections,
+        meta: {
+            title: 'Collections',
+        },
     },
     {
         path: '/about',

@@ -1,0 +1,97 @@
+export default [
+  {
+    id: 1,
+    name: "Ethereal Tote",
+    material: "Organic Cotton & Vegan Leather",
+    price: 285,
+    rating: 5,
+    reviews: 24,
+    image: "https://placehold.co/500x400",
+    sustainabilityBadge: "Zero Waste",
+    description:
+      "A spacious tote crafted from organic cotton canvas with vegan leather accents. Features an interior pocket and magnetic closure.",
+  },
+  {
+    id: 2,
+    name: "Celestial Earrings",
+    material: "Recycled Gold & Ethically Sourced Gemstones",
+    price: 195,
+    rating: 4,
+    reviews: 18,
+    image: "https://placehold.co/500x400",
+    sustainabilityBadge: "Fair Trade",
+    description:
+      "Elegant drop earrings made from recycled gold featuring ethically sourced moonstone. Each piece is handcrafted by skilled artisans.",
+  },
+  {
+    id: 3,
+    name: "Harmony Scarf",
+    material: "Peace Silk",
+    price: 165,
+    rating: 5,
+    reviews: 32,
+    image: "https://placehold.co/500x400",
+    sustainabilityBadge: "Cruelty-Free",
+    description:
+      "A luxurious scarf made from peace silk with hand-painted botanical motifs. The silk is harvested without harming silkworms.",
+  },
+  {
+    id: 4,
+    name: "Terra Crossbody",
+    material: "Cork Leather",
+    price: 225,
+    rating: 4,
+    reviews: 15,
+    image: "https://placehold.co/500x400",
+    sustainabilityBadge: "Carbon Neutral",
+    description:
+      "A versatile crossbody bag made from sustainable cork leather. Waterproof, lightweight, and features adjustable straps.",
+  },
+  {
+    id: 5,
+    name: "Aura Cuff Bracelet",
+    material: "Recycled Silver",
+    price: 145,
+    rating: 5,
+    reviews: 27,
+    image: "https://placehold.co/500x400",
+    description:
+      "A minimalist cuff bracelet crafted from recycled silver. Each piece is hand-finished for a unique, subtle texture.",
+  },
+  {
+    id: 6,
+    name: "Solstice Wallet",
+    material: "Vegan Leather",
+    price: 95,
+    rating: 4,
+    reviews: 21,
+    image: "https://placehold.co/500x400",
+    sustainabilityBadge: "Vegan",
+    description:
+      "A sleek wallet made from innovative plant-based vegan leather. Features multiple card slots and a coin pocket.",
+  },
+  {
+    id: 7,
+    name: "Gaia Pendant Necklace",
+    material: "Recycled Brass & Upcycled Glass",
+    price: 120,
+    rating: 5,
+    reviews: 19,
+    image: "https://placehold.co/500x400",
+    sustainabilityBadge: "Upcycled",
+    description:
+      "A statement pendant necklace featuring upcycled glass beads set in recycled brass. Adjustable chain length.",
+  },
+  {
+    id: 8,
+    name: "Zephyr Weekender",
+    material: "Organic Hemp Canvas",
+    price: 325,
+    rating: 5,
+    reviews: 14,
+    image: "https://placehold.co/500x400",
+    sustainabilityBadge: "Zero Waste",
+    description:
+      "A spacious weekender bag made from durable organic hemp canvas. Features multiple pockets and a detachable shoulder strap.",
+  },
+];
